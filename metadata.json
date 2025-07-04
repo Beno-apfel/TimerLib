@@ -1,0 +1,7 @@
+{
+  "name": "TimerLib",
+  "creator": "Beno",
+  "description": "ct library for timers",
+  "version": "1.0",
+  "entry": "index.js"
+}
